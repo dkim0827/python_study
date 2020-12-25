@@ -25,7 +25,7 @@ while index >= 1:
 # students = [i + 100 for i in students]
 # print(students)
 
-# students name to length
+# students name to length 
 students = ["Iron man", "Thor", "I am groot"]
 students = [len(name) for name in students]
 print(students)
